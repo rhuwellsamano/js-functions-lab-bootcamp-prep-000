@@ -6,7 +6,7 @@ return "Happy holidays!"
 var name = "you"
 var holiday = "Independence Day"
 
-function happyHolidaysTo(name) {
+function happyHolidaysTo($name) {
   return "Happy holidays, ${name}!"
 }
 
